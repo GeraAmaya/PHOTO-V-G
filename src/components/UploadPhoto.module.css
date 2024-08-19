@@ -1,0 +1,14 @@
+/* src/components/UploadPhoto.module.css */
+.uploadContainer {
+  text-align: center;
+}
+
+.uploadButton {
+  margin-top: 10px;
+}
+
+.uploadStatus {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #555;
+}
